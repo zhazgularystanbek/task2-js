@@ -1,0 +1,9 @@
+.card {
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    background-color: rgb(234, 248, 44);
+    margin-left: 200px;
+    border-radius: 3px;
+    border: darkblue 1px solid;
+}
